@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vänner</string>
+    <string name="title_section1">Karta</string>
+    <string name="title_section2">Kommunikation</string>
+    <string name="title_section3">Section 3</string>
+    <string name="myposition">Min position</string>
+    <string name="Friendsposition">Vän</string>
+    <string name="navigation_drawer_open">Öppna navigations fönstret</string>
+    <string name="navigation_drawer_close">Stäng navigations fönstret</string>
+    <string name="action_example">Example action</string>
+    <string name="satellite">Satellit</string>
+    <string name="normal">Normal</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="hello_blank_fragment">Hallå tomt fragment</string>
+    <string name="grupp">Grupp namn</string>
+    <string name="namn">Användar namn</string>
+    <string name="update">Uppdatera listan</string>
+    <string name="dialogTitle">medlems namn</string>
+
+</resources>
