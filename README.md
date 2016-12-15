@@ -1,8 +1,8 @@
 # Buddy
 In this project I created an Android Application where the user can locate nearby friends on a map (also using the same application) 
 
-Future Implementations: 
-Implement a chat for the users to interact with eachother.
+## System
 
-Skills required:
-JSON, google map API, Thread, NavigationDrawer
+
+## Technologies used:
+JSON, google map API, Threads, NavigationDrawer
